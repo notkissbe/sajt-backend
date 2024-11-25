@@ -18,4 +18,13 @@ Adatszerkezet
 Végpontok
 ---
 
-/
+GET /sajt
+
+GET /sajt/{id}
+
+POST /sajt
+
+PUT /sajt/{id}
+
+DELETE /sajt/{id}
+
